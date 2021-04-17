@@ -1,0 +1,13 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "hola_android",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
